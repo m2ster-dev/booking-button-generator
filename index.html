@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Booking Button Generator</title>
+</head>
+<body>
+  <h1>Booking Button Generator</h1>
+  <form>
+    <label>Button Text: <input type="text" id="btnText" value="Book Now"></label><br>
+    <label>Booking URL: <input type="url" id="btnUrl" value="https://yourdomain.com/booking"></label><br>
+    <label>Color: <input type="color" id="btnColor" value="#4CAF50"></label><br>
+    <button type="button" onclick="generate()">Generate</button>
+  </form>
+  <pre id="output"></pre>
+
+  <script>
+    function generate() {
+      const text = document.getElementById('btnText').value;
+      const url = document.getElementById('btnUrl').value;
+      const color = document.getElementById('btnColor').value;
+
+      const code = `<a href="${url}" style="background:${color};color:white;padding:10px 20px;text-decoration:none;border-radius:5px;">${text}</a>`;
+      document.getElementById('output').textContent = code;
+    }
+  </script>
+</body>
+</html>
