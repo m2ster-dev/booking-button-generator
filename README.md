@@ -1,18 +1,22 @@
 # Booking Button Generator
 
-A simple tool to create booking buttons for your website.
+A simple tool to create and customize a "Book Now" button for your website.
 
-👉 Try it live: [https://yourdomain.com/tools/booking-button](https://yourdomain.com/tools/booking-button)
+👉 **Try it live:** [https://anolla.com/tools/booking-button](https://anolla.com/tools/booking-button)
 
-This tool helps business owners generate a shareable button that links to their booking page.
+This tool helps business owners (like salons, spas, coaches) generate a branded booking button that links directly to their Anolla-powered booking page.
 
 ## Features
-- Choose button color and text
-- Automatically creates embed code
-- Works with all websites
+- Custom button text and color
+- Instant HTML embed code
+- Works on any website or profile
+- No login required
 
 ## Support
-Visit [https://anolla.com](https://anolla.com) for help or feedback.
+Visit [https://anolla.com/contact](https://anolla.com/contact) or email support@anolla.com
 
-## License
-MIT
+## Source
+Licensed under MIT. Contributions welcome!
+
+## Powered by
+[Anolla](https://anolla.com) — Easy booking software for modern businesses.
