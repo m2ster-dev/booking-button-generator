@@ -13,7 +13,7 @@ This tool helps business owners (like salons, spas, coaches) generate a branded 
 - No login required
 
 ## Support
-Visit [https://anolla.com/contact](https://anolla.com/contact) or email support@anolla.com
+Visit [https://anolla.com](https://anolla.com) or email support@anolla.com
 
 ## Source
 Licensed under MIT. Contributions welcome!
